@@ -7,7 +7,7 @@
 - 💬 Ask me about MERN Stack, DevOps & JAVA
 - 📫 How to reach me: pranjalisr25@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 150 wpm
+
 
 ## About Me
 
