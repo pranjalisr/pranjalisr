@@ -1,3 +1,6 @@
+[![An image of @pranjalsrv123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranjalsrv123)](https://holopin.io/@pranjalsrv123)
+
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on MERN Stack & DevOps
