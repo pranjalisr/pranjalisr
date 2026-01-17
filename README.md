@@ -1,4 +1,3 @@
-[![An image of @pranjalsrv123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranjalsrv123)](https://holopin.io/@pranjalsrv123)
 
 
 ## Hi there 👋
@@ -21,9 +20,10 @@
 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=pranjalisr&theme=swift&include_all_commits=true)
 ![](https://streak-stats.demolab.com/?user=pranjalisr&theme=swift)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalisr&theme=swift&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalisr&layout=compact&theme=swift)
 
 
 ### 🔝 Top Contributed Repo
