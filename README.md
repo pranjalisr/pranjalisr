@@ -28,7 +28,8 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=pranjalisr&limit=5&theme=swift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pranjalisr&repo=REPO_NAME_1&theme=swift)](https://github.com/pranjalisr/REPO_NAME_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pranjalisr&repo=REPO_NAME_2&theme=swift)](https://github.com/pranjalisr/REPO_NAME_2)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pranjalisr&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
