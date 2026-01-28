@@ -35,12 +35,6 @@
 
 <br/>
 
-## 🧭 Activity Radar (Stats Overview)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranjalisr&theme=github_dark" />
-</p>
-
-<br/>
 
 ## 🏆 GitHub Achievements
 <p align="center">
