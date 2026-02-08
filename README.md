@@ -43,11 +43,6 @@
 
 <br/>
 
-## 🌐 Find Me Online
-- 💼 LinkedIn: https://www.linkedin.com/in/pranjali-sr25/ 
-- 🌍 Portfolio: https://pranjaliportfolio-mwsl.vercel.app/
-[![](https://visitcount.itsvg.in/api?id=pranjalisr&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
