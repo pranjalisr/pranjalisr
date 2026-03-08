@@ -28,12 +28,7 @@
 
 <br/>
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pranjalisr&theme=radical&hide_border=true" />
-</p>
 
-<br/>
 
 
 ## 🏆 GitHub Achievements
@@ -42,6 +37,21 @@
 </p>
 
 <br/>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranjalisr&theme=tokyonight)
+
+## 📊 GitHub Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranjalisr&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranjalisr&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranjalisr&theme=github_dark"/>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
