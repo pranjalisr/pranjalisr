@@ -118,9 +118,8 @@ while True:
 </p>
 
 <br/>
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranjalisr&theme=tokyonight)
+  
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=pranjalisr&theme=tokyonight)
 
 ## 📊 GitHub Activity Overview
 
